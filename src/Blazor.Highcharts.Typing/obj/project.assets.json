@@ -30,12 +30,11 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -45,11 +44,12 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "sha512": "R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pgrasseels\\.nuget\\packages\\": {},
+    "C:\\Users\\aitbr\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj",
+      "projectUniqueName": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj",
       "projectName": "Blazor.Highcharts.Typing",
-      "projectPath": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj",
-      "packagesPath": "C:\\Users\\pgrasseels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\obj\\",
+      "projectPath": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj",
+      "packagesPath": "C:\\Users\\aitbr\\.nuget\\packages\\",
+      "outputPath": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pgrasseels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aitbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -203,7 +203,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://artifactory.tunz.com/artifactory/api/nuget/ingenico-nuget-repo": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/aspnetcore-ci-dev/api/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {

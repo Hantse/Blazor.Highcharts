@@ -123,7 +123,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Blazor.Highcharts/1.0.0": {
+      "Blazor.Highcharts/0.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -136,7 +136,7 @@
           "bin/placeholder/Blazor.Highcharts.dll": {}
         }
       },
-      "Blazor.Highcharts.Typing/1.0.0": {
+      "Blazor.Highcharts.Typing/0.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -446,9 +446,10 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "sa/cztXesLyTgCiYuef0RK2EAImnak0w2wrjCh/YBTvbn4iV2eTy0q3F8CyUkGiaYEyxUKGVTko6+7SMRBL4Gg==",
+      "sha512": "fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
+      "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -472,7 +473,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection/2.1.0": {
-      "sha512": "9lHaNBx9sW5I4Lxfb/jyKYgnyjggqST0bnkpyVNIudJtqoXayiVDO8GCIC+S3YRK+JM2oviDJh4X5tJzdXJoSg==",
+      "sha512": "HG/PMzoRWkHk+XHknD7J2q/UmeXF8eqqwDEfgvNL6nkOITcYgp3r+pCCPHD0dxVXtZjaFru7PoYxmvq2NcJy6Q==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/2.1.0",
       "files": [
@@ -489,7 +490,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
-      "sha512": "Y139tetrEc1Y347FoOK8Oqm1S0aq8jPg5m6L4ti9N7ki0o4amSa7XOq048EhpeQnO/9jrVJKlqBdq/aQduW31A==",
+      "sha512": "6Krshi1mFyDQ+NZSgyxv4GN9I45TXjmXTHJZ3c7x24m/IV2iy7euEivIdYpQXdBGzzslZcHBS9ElN2Cs7n6wpQ==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
       "files": [
@@ -514,12 +515,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -541,11 +541,12 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "sha512": "R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -668,12 +669,12 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Blazor.Highcharts/1.0.0": {
+    "Blazor.Highcharts/0.0.1": {
       "type": "project",
       "path": "../Blazor.Highcharts/Blazor.Highcharts.csproj",
       "msbuildProject": "../Blazor.Highcharts/Blazor.Highcharts.csproj"
     },
-    "Blazor.Highcharts.Typing/1.0.0": {
+    "Blazor.Highcharts.Typing/0.0.1": {
       "type": "project",
       "path": "../Blazor.Highcharts.Typing/Blazor.Highcharts.Typing.csproj",
       "msbuildProject": "../Blazor.Highcharts.Typing/Blazor.Highcharts.Typing.csproj"
@@ -681,31 +682,31 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Blazor.Highcharts >= 1.0.0",
-      "Blazor.Highcharts.Typing >= 1.0.0",
+      "Blazor.Highcharts >= 0.0.1",
+      "Blazor.Highcharts.Typing >= 0.0.1",
       "Microsoft.AspNetCore.Blazor.Browser >= 0.7.0",
       "Microsoft.AspNetCore.Blazor.Build >= 0.7.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pgrasseels\\.nuget\\packages\\": {},
+    "C:\\Users\\aitbr\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typed\\Blazor.Highcharts.Typed.csproj",
+      "projectUniqueName": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typed\\Blazor.Highcharts.Typed.csproj",
       "projectName": "Blazor.Highcharts.Typed",
-      "projectPath": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typed\\Blazor.Highcharts.Typed.csproj",
-      "packagesPath": "C:\\Users\\pgrasseels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typed\\obj\\",
+      "projectPath": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typed\\Blazor.Highcharts.Typed.csproj",
+      "packagesPath": "C:\\Users\\aitbr\\.nuget\\packages\\",
+      "outputPath": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pgrasseels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aitbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -713,16 +714,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://artifactory.tunz.com/artifactory/api/nuget/ingenico-nuget-repo": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/aspnetcore-ci-dev/api/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj": {
-              "projectPath": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj"
+            "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj": {
+              "projectPath": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts.Typing\\Blazor.Highcharts.Typing.csproj"
             },
-            "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts\\Blazor.Highcharts.csproj": {
-              "projectPath": "C:\\Users\\pgrasseels\\Documents\\Sources\\Blazor.Highcharts\\src\\Blazor.Highcharts\\Blazor.Highcharts.csproj"
+            "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts\\Blazor.Highcharts.csproj": {
+              "projectPath": "K:\\Repositories\\Blazor.Highcharts\\src\\Blazor.Highcharts\\Blazor.Highcharts.csproj"
             }
           }
         }

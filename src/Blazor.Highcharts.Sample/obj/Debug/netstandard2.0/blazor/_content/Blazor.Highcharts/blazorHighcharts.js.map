@@ -1,1 +1,1 @@
-{"version":3,"file":"blazorHighcharts.js","sourceRoot":"","sources":["blazorHighcharts.ts"],"names":[],"mappings":"AACA,IAAM,UAAU,GAChB;IACI,IAAI,EAAE,UAAC,UAAU,IAAK,OAAA,UAAU,CAAC,KAAK,CAAC,0BAA0B,EAAE,UAAU,CAAC,EAAxD,CAAwD;CACjF,CAAC;AACF,MAAM,CAAC,YAAY,CAAC,GAAG,UAAU,CAAC"}
+{"version":3,"file":"blazorHighcharts.js","sourceRoot":"","sources":["blazorHighcharts.ts"],"names":[],"mappings":"AACA,IAAM,UAAU,GAChB;IACI,IAAI,EAAE,UAAC,UAAe,IAAK,OAAA,UAAU,CAAC,KAAK,CAAC,0BAA0B,EAAE,UAAU,CAAC,EAAxD,CAAwD;CACtF,CAAC;AACF,MAAM,CAAC,YAAY,CAAC,GAAG,UAAU,CAAC"}

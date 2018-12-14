@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Blazor.Highcharts.Typed\Blazor.Highcharts.Typed.csproj" />
     <ProjectReference Include="..\Blazor.Highcharts.Typing\Blazor.Highcharts.Typing.csproj" />
+    <ProjectReference Include="..\Blazor.Highcharts\Blazor.Highcharts.csproj" />
   </ItemGroup>
 
 </Project>

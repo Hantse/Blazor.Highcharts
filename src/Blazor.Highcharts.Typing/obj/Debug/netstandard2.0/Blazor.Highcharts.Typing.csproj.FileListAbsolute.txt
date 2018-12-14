@@ -6,3 +6,12 @@ C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Ty
 C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.AssemblyInfo.cs
 C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.dll
 C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.pdb
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\bin\Debug\netstandard2.0\Blazor.Highcharts.Typing.deps.json
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\bin\Debug\netstandard2.0\Blazor.Highcharts.Typing.dll
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\bin\Debug\netstandard2.0\Blazor.Highcharts.Typing.pdb
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.csprojAssemblyReference.cache
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.csproj.CoreCompileInputs.cache
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.AssemblyInfoInputs.cache
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.AssemblyInfo.cs
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.dll
+K:\Repositories\Blazor.Highcharts\src\Blazor.Highcharts.Typing\obj\Debug\netstandard2.0\Blazor.Highcharts.Typing.pdb
