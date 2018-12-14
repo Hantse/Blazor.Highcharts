@@ -1,8 +1,0 @@
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\bin\Debug\netstandard2.0\Blazor.Highcharts.Model.deps.json
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\bin\Debug\netstandard2.0\Blazor.Highcharts.Model.dll
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\bin\Debug\netstandard2.0\Blazor.Highcharts.Model.pdb
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\obj\Debug\netstandard2.0\Blazor.Highcharts.Model.csproj.CoreCompileInputs.cache
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\obj\Debug\netstandard2.0\Blazor.Highcharts.Model.AssemblyInfoInputs.cache
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\obj\Debug\netstandard2.0\Blazor.Highcharts.Model.AssemblyInfo.cs
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\obj\Debug\netstandard2.0\Blazor.Highcharts.Model.dll
-C:\Users\pgrasseels\Documents\Sources\Blazor.Highcharts\src\Blazor.Highcharts.Model\obj\Debug\netstandard2.0\Blazor.Highcharts.Model.pdb
